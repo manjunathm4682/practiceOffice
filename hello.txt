@@ -2,3 +2,4 @@ hello github
 this is my second update
 this line is added in the new-feature branch
 this line is from feature-2 branch.
+this line is from feature-3 branch
